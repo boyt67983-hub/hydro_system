@@ -12,23 +12,18 @@ This is a Flask conversion of the uploaded Streamlit hydro dashboard.
 ## Project structure
 
 ```text
-flask_hydro_streamlit_like/
+ Streamlit_Hydro_System/
 ├── app.py
 ├── model.pkl                # place your trained bundle here
 ├── requirements.txt
-├── templates/
-│   ├── base.html
-│   └── index.html
-└── static/
-    └── css/
-        └── style.css
+   
 ```
 
 ## Run
 
 ```bash
 pip install -r requirements.txt
-python app.py
+Streamlit run app.py
 ```
 
 Then open:

@@ -1,6 +1,6 @@
-# Flask Hydro Data Intelligence
+# Streamlit Hydro Data Intelligence
 
-This is a Flask conversion of the uploaded Streamlit hydro dashboard.
+
 
 ## Features
 - Predict Missing Day
